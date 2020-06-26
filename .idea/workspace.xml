@@ -10,7 +10,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cada2f49-53c6-42cf-8e3c-4956d35f2e4e" name="Default Changelist" comment="New Initial Commit" />
+    <list default="true" id="cada2f49-53c6-42cf-8e3c-4956d35f2e4e" name="Default Changelist" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/matplot figure.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,8 +34,37 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Image_Data_Exploration" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -51,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593198387871</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <created>1593198762440</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593198762440</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,13 +107,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="New Initial Commit" />
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1226" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593129149343">
+    <state x="-1226" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593203165600">
       <screen x="-1360" y="0" width="1360" height="728" />
     </state>
-    <state x="-1226" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1593129149343" />
+    <state x="-1226" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1593203165600" />
+    <state x="-923" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593198998140">
+      <screen x="-1360" y="0" width="1360" height="728" />
+    </state>
+    <state x="-923" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1593198998140" />
+    <state x="-911" y="193" key="#com.intellij.tools.ToolEditorDialog" timestamp="1593203133131">
+      <screen x="-1360" y="0" width="1360" height="728" />
+    </state>
+    <state x="-911" y="193" key="#com.intellij.tools.ToolEditorDialog/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1593203133131" />
     <state x="-1268" y="92" width="1176" height="544" key="DiffContextDialog" timestamp="1593198628288">
       <screen x="-1360" y="0" width="1360" height="728" />
     </state>
@@ -82,26 +131,46 @@
       <screen x="-1360" y="0" width="1360" height="728" />
     </state>
     <state x="-844" y="261" key="Github.ShareDialog/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1593130923199" />
+    <state width="1339" height="171" key="GridCell.Tab.0.bottom" timestamp="1593204219604">
+      <screen x="-1360" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="171" key="GridCell.Tab.0.bottom/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1593204219604" />
+    <state width="1339" height="171" key="GridCell.Tab.0.center" timestamp="1593204219604">
+      <screen x="-1360" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="171" key="GridCell.Tab.0.center/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1593204219604" />
+    <state width="1339" height="171" key="GridCell.Tab.0.left" timestamp="1593204219604">
+      <screen x="-1360" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="171" key="GridCell.Tab.0.left/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1593204219604" />
+    <state width="1339" height="171" key="GridCell.Tab.0.right" timestamp="1593204219604">
+      <screen x="-1360" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="171" key="GridCell.Tab.0.right/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1593204219604" />
     <state x="-958" y="66" key="RollbackChangesDialog" timestamp="1593198263681">
       <screen x="-1360" y="0" width="1360" height="728" />
     </state>
     <state x="-958" y="66" key="RollbackChangesDialog/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1593198263681" />
-    <state x="-1179" y="8" key="SettingsEditor" timestamp="1593129159461">
+    <state x="-1179" y="8" key="SettingsEditor" timestamp="1593199309881">
       <screen x="-1360" y="0" width="1360" height="728" />
     </state>
-    <state x="-1179" y="8" key="SettingsEditor/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1593129159461" />
+    <state x="-1179" y="8" key="SettingsEditor/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1593199309881" />
     <state x="-794" y="279" key="VCS.EditChangelistDialog" timestamp="1593198325301">
       <screen x="-1360" y="0" width="1360" height="728" />
     </state>
     <state x="-794" y="279" key="VCS.EditChangelistDialog/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1593198325301" />
-    <state x="-1088" y="96" key="Vcs.Push.Dialog.v2" timestamp="1593198274092">
+    <state x="-1088" y="96" key="Vcs.Push.Dialog.v2" timestamp="1593204280186">
       <screen x="-1360" y="0" width="1360" height="728" />
     </state>
-    <state x="-1088" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1593198274092" />
+    <state x="-1088" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1593204280186" />
     <state x="-871" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593198446487">
       <screen x="-1360" y="0" width="1360" height="728" />
     </state>
     <state x="-871" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1593198446487" />
+    <state x="-785" y="98" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1593203134120">
+      <screen x="-1360" y="0" width="1360" height="728" />
+    </state>
+    <state x="-785" y="98" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1593203134120" />
     <state x="-974" y="68" width="587" height="592" key="find.popup" timestamp="1593126645795">
       <screen x="-1360" y="0" width="1360" height="728" />
     </state>
