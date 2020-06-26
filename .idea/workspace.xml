@@ -10,22 +10,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cada2f49-53c6-42cf-8e3c-4956d35f2e4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Image_Data_Exploration.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/How to Download CIFAR-10 dataset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Text" afterDir="false" />
-    </list>
+    <list default="true" id="cada2f49-53c6-42cf-8e3c-4956d35f2e4e" name="Default Changelist" comment="New Initial Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -38,6 +29,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -52,6 +44,14 @@
       <option name="presentableId" value="Default" />
       <updated>1593125914453</updated>
     </task>
+    <task id="LOCAL-00001" summary="New Initial Commit">
+      <created>1593198387871</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593198387871</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -65,11 +65,19 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Initial Commit" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="-1226" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593129149343">
       <screen x="-1360" y="0" width="1360" height="728" />
     </state>
     <state x="-1226" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1593129149343" />
+    <state x="-1268" y="92" width="1176" height="544" key="DiffContextDialog" timestamp="1593198628288">
+      <screen x="-1360" y="0" width="1360" height="728" />
+    </state>
+    <state x="-1268" y="92" width="1176" height="544" key="DiffContextDialog/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1593198628288" />
     <state x="-844" y="261" key="Github.ShareDialog" timestamp="1593130923199">
       <screen x="-1360" y="0" width="1360" height="728" />
     </state>
@@ -82,10 +90,18 @@
       <screen x="-1360" y="0" width="1360" height="728" />
     </state>
     <state x="-1179" y="8" key="SettingsEditor/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1593129159461" />
+    <state x="-794" y="279" key="VCS.EditChangelistDialog" timestamp="1593198325301">
+      <screen x="-1360" y="0" width="1360" height="728" />
+    </state>
+    <state x="-794" y="279" key="VCS.EditChangelistDialog/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1593198325301" />
     <state x="-1088" y="96" key="Vcs.Push.Dialog.v2" timestamp="1593198274092">
       <screen x="-1360" y="0" width="1360" height="728" />
     </state>
     <state x="-1088" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1593198274092" />
+    <state x="-871" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593198446487">
+      <screen x="-1360" y="0" width="1360" height="728" />
+    </state>
+    <state x="-871" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1593198446487" />
     <state x="-974" y="68" width="587" height="592" key="find.popup" timestamp="1593126645795">
       <screen x="-1360" y="0" width="1360" height="728" />
     </state>
