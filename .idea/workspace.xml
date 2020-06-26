@@ -10,9 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cada2f49-53c6-42cf-8e3c-4956d35f2e4e" name="Default Changelist" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/matplot figure.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="cada2f49-53c6-42cf-8e3c-4956d35f2e4e" name="Default Changelist" comment="Demonstrates how to show the images as downloaded pngs.">
       <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +89,21 @@
       <option name="project" value="LOCAL" />
       <updated>1593198762440</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Demonstrates how to show the images as downloaded pngs.">
+      <created>1593204343854</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593204343854</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Demonstrates how to show the images as downloaded pngs.">
+      <created>1593204578658</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1593204578658</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,7 +120,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New Initial Commit" />
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Demonstrates how to show the images as downloaded pngs." />
+    <option name="LAST_COMMIT_MESSAGE" value="Demonstrates how to show the images as downloaded pngs." />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1226" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593203165600">
@@ -131,22 +144,22 @@
       <screen x="-1360" y="0" width="1360" height="728" />
     </state>
     <state x="-844" y="261" key="Github.ShareDialog/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1593130923199" />
-    <state width="1339" height="171" key="GridCell.Tab.0.bottom" timestamp="1593204219604">
+    <state width="1339" height="171" key="GridCell.Tab.0.bottom" timestamp="1593206210734">
       <screen x="-1360" y="0" width="1360" height="728" />
     </state>
-    <state width="1339" height="171" key="GridCell.Tab.0.bottom/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1593204219604" />
-    <state width="1339" height="171" key="GridCell.Tab.0.center" timestamp="1593204219604">
+    <state width="1339" height="171" key="GridCell.Tab.0.bottom/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1593206210734" />
+    <state width="1339" height="171" key="GridCell.Tab.0.center" timestamp="1593206210734">
       <screen x="-1360" y="0" width="1360" height="728" />
     </state>
-    <state width="1339" height="171" key="GridCell.Tab.0.center/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1593204219604" />
-    <state width="1339" height="171" key="GridCell.Tab.0.left" timestamp="1593204219604">
+    <state width="1339" height="171" key="GridCell.Tab.0.center/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1593206210734" />
+    <state width="1339" height="171" key="GridCell.Tab.0.left" timestamp="1593206210734">
       <screen x="-1360" y="0" width="1360" height="728" />
     </state>
-    <state width="1339" height="171" key="GridCell.Tab.0.left/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1593204219604" />
-    <state width="1339" height="171" key="GridCell.Tab.0.right" timestamp="1593204219604">
+    <state width="1339" height="171" key="GridCell.Tab.0.left/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1593206210734" />
+    <state width="1339" height="171" key="GridCell.Tab.0.right" timestamp="1593206210734">
       <screen x="-1360" y="0" width="1360" height="728" />
     </state>
-    <state width="1339" height="171" key="GridCell.Tab.0.right/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1593204219604" />
+    <state width="1339" height="171" key="GridCell.Tab.0.right/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1593206210734" />
     <state x="-958" y="66" key="RollbackChangesDialog" timestamp="1593198263681">
       <screen x="-1360" y="0" width="1360" height="728" />
     </state>
@@ -159,10 +172,10 @@
       <screen x="-1360" y="0" width="1360" height="728" />
     </state>
     <state x="-794" y="279" key="VCS.EditChangelistDialog/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1593198325301" />
-    <state x="-1088" y="96" key="Vcs.Push.Dialog.v2" timestamp="1593204280186">
+    <state x="-1088" y="96" key="Vcs.Push.Dialog.v2" timestamp="1593206854336">
       <screen x="-1360" y="0" width="1360" height="728" />
     </state>
-    <state x="-1088" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1593204280186" />
+    <state x="-1088" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1593206854336" />
     <state x="-871" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593198446487">
       <screen x="-1360" y="0" width="1360" height="728" />
     </state>
