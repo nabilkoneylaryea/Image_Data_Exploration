@@ -1,0 +1,9 @@
+https://www.cs.toronto.edu/~kriz/cifar.html
+
+1. Go to above link
+2. There will be two datasets: CIFAR-10 & CIFAR-100
+Note: CIFAR-10 has 10 image classifications and CIFAR-100 has 100
+3.Make sure CIFAR-10/CIFAR-100 isn't already on your computer's filesystem
+5. Download if not in filesystem
+4. Put into the directory
+C:\Users\<user>\AppData\Local\Programs\Python\<version>\Lib\site-packages/keras/datasets/cifar-10batches-py
